@@ -18,7 +18,10 @@
 基于[heizicao/My Icon](https://gitee.com/heizicao/my-icon)修改，提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途
 
 ## 二、展示
-![输入图片说明](public/screenshot.jpg)
+
+https://siriling.github.io/my-icons/dist
+
+![show](public/screenshot.jpg)
 
 
 # 三、使用
