@@ -70,11 +70,6 @@
     "course": ""
   },
   {
-    "name": "Love",
-    "sort": "project",
-    "course": ""
-  },
-  {
     "name": "Acme",
     "sort": "docker",
     "course": ""
@@ -430,17 +425,17 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247490514&idx=1&sn=1f607aba8efc2d7442cadfa0c863244b&chksm=ea42cc9fdd35458959d911b858a23e659b664e0eb14c2aa36c6af389ac19e2c53f91dc3bd596&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Uptimekuma_A",
+    "name": "UptimeKuma_A",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247490622&idx=1&sn=248a08b503ac058347dd8d3a39f072bd&chksm=ea42cb73dd3542650962e153efdc1b3c9e8d46e5c79b90d12b50dc771d746f79d3b554c14c7b&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Uptimekuma_B",
+    "name": "UptimeKuma_B",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247490622&idx=1&sn=248a08b503ac058347dd8d3a39f072bd&chksm=ea42cb73dd3542650962e153efdc1b3c9e8d46e5c79b90d12b50dc771d746f79d3b554c14c7b&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Uptimekuma_C",
+    "name": "UptimeKuma_C",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247490622&idx=1&sn=248a08b503ac058347dd8d3a39f072bd&chksm=ea42cb73dd3542650962e153efdc1b3c9e8d46e5c79b90d12b50dc771d746f79d3b554c14c7b&token=1059416760&lang=zh_CN#rd"
   },
@@ -1130,7 +1125,7 @@
     "course": ""
   },
   {
-    "name": "ChatGPT_b",
+    "name": "ChatGPT_B",
     "sort": "docker",
     "course": ""
   },
@@ -1185,22 +1180,22 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247497769&idx=1&sn=b7037b0a4b9a14890f17ba5484b87085&chksm=ea412f64dd36a6728f5724afb69adfd244212a64a60e30be32619fdca7eff47377e233ae321c&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Openwrt_A",
+    "name": "OpenWRT_A",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Openwrt_B",
+    "name": "OpenWRT_B",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Openwrt_C",
+    "name": "OpenWRT_C",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Openwrt_D",
+    "name": "OpenWRT_D",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
   },
