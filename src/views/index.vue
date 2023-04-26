@@ -13,7 +13,7 @@
         <el-image class="use_img" :src="require('../assets/vms.png')" />
         <div class="use_txt">VMS虚拟机</div>
         <el-divider direction="vertical" />
-        <!-- <el-image class="use_img" :src="require('../assets/project.png')" /> -->
+        <el-image class="use_img" :src="require('../assets/project.png')" />
         <div class="use_txt">项目</div>
         <el-divider direction="vertical" />
         <el-image class="use_img" :src="require('../assets/other.png')" />
@@ -58,6 +58,8 @@
       <div class="content_head">
         <div class="content_title">{{ data.selectlabel }}</div>
         <div class="content_sum">{{ data.icondata.length }}</div>
+        <el-text class="mx-1" type="primary">CDN</el-text>
+        <el-switch v-model="value1" />
       </div>
       <el-space wrap>
         <div
@@ -107,10 +109,12 @@ import { defineComponent, reactive, onMounted } from "vue";
 import { Search } from "@element-plus/icons-vue";
 import clipboard3 from "vue-clipboard3";
 import { ElMessage } from "element-plus";
+import { ref } from 'vue'
 
 export default defineComponent({
   setup() {
     const { toClipboard } = clipboard3();
+    const value1 = ref(false);
     const data = reactive({
       selectlabel: "全部",
       selectvalue: "",
@@ -198,8 +202,9 @@ export default defineComponent({
       //获取图片url
       let currenturl = window.location.href;
       let iconurl = data.publicPath + "icon/" + url;
+      let iconurlCdn = "https://cdn.jsdelivr.net/gh/Siriling/icons@main/dist/" + "icon/" + url;
       let fullurl = currenturl.substr(0, currenturl.length - 2) + iconurl;
-      await toClipboard(fullurl);
+      await toClipboard(value1.value ? iconurlCdn : fullurl);
       ElMessage({
         message: "图标链接复制成功~",
         type: "success",
@@ -213,6 +218,7 @@ export default defineComponent({
 
     return {
       data,
+      value1,
       handleClick,
       handleSearch,
       handleSelect,
@@ -367,5 +373,10 @@ export default defineComponent({
   height: 18px;
   margin: 0 15px;
   // opacity: 0.6;
+}
+.mx-1{
+  display: block; 
+  padding-right: 5px;
+  padding-left: 25px;
 }
 </style>
