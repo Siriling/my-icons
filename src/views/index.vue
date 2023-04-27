@@ -58,8 +58,7 @@
       <div class="content_head">
         <div class="content_title">{{ data.selectlabel }}</div>
         <div class="content_sum">{{ data.icondata.length }}</div>
-        <el-text class="mx-1" type="primary">CDN</el-text>
-        <el-switch v-model="value1" />
+        <el-switch class="cdn" v-model="value1" active-text="CDN"/>
       </div>
       <el-space wrap>
         <div
@@ -202,11 +201,11 @@ export default defineComponent({
       //获取图片url
       let currenturl = window.location.href;
       let iconurl = data.publicPath + "icon/" + url;
-      let iconurlCdn = "https://cdn.jsdelivr.net/gh/Siriling/icons@main/dist/" + "icon/" + url;
+      let iconurlCdn = "https://cdn.jsdelivr.net/gh/Siriling/my-icons@main/dist/" + "icon/" + url;
       let fullurl = currenturl.substr(0, currenturl.length - 2) + iconurl;
       await toClipboard(value1.value ? iconurlCdn : fullurl);
       ElMessage({
-        message: "图标链接复制成功~",
+        message: "图标链接复制成功",
         type: "success",
       });
     }
@@ -374,9 +373,7 @@ export default defineComponent({
   margin: 0 15px;
   // opacity: 0.6;
 }
-.mx-1{
-  display: block; 
-  padding-right: 5px;
+.cdn{
   padding-left: 25px;
 }
 </style>

@@ -21,7 +21,7 @@
 
 https://siriling.github.io/my-icons/dist
 
-![show](public/screenshot.jpg)
+![show](public/screenshot.png)
 
 
 # 三、使用
@@ -29,6 +29,8 @@ https://siriling.github.io/my-icons/dist
 - 点击相应图标即可获取URL
 
 - 点击相应图标即可查看部署教程
+
+- 打开CDN开关，可转换为CDN链接
 
 # 四、分类
 - Docker容器（docker）
