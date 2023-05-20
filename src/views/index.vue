@@ -189,7 +189,7 @@ export default defineComponent({
       }
       let arr = [] as any;
       for (var i = 0; i < filteredData.length; i++) {
-        if (filteredData[i].name.indexOf(keyword) >= 0) {
+        if (filteredData[i].name.toLocaleLowerCase().indexOf(keyword.toLocaleLowerCase()) >= 0) {
           arr.push(filteredData[i]);
         }
       }

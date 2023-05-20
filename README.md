@@ -11,13 +11,15 @@
 
 [四、分类](#四分类)
 
-[五、Docker部署](#五Docker部署)
+[五、本地运行](#五本地运行)
 
-## 一、简介
+[六、Docker部署](#六Docker部署)
+
+# 一、简介
 
 基于[heizicao/My Icon](https://gitee.com/heizicao/my-icon)修改，提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途
 
-## 二、展示
+# 二、展示
 
 https://siriling.github.io/my-icons/dist
 
@@ -38,11 +40,20 @@ https://siriling.github.io/my-icons/dist
 - 项目（project）
 - 其他（other）
 
-# 五、Docker部署
+# 五、本地运行
 
-1. Docker部署nginx服务
+下载安装node.js，在CMD运行以下两个命令，然后在浏览器打开http://localhost:8080
+
+```shell
+npm install
+npm run serve
+```
+
+# 六、Docker部署
+
+1. Docker部署Nginx服务
 2. 下载dist文件夹
-3. 放到nginx的www文件夹中
+3. 放到Nginx的www文件夹中
 4. 将图标放入icon文件夹
 5. 修改db.json
 
