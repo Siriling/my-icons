@@ -360,6 +360,16 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247489982&idx=1&sn=3859345a55b300a88fe4ba1925d68006&chksm=ea42cef3dd3547e5e89cf24cdf03264bbf8f792c3e0c167f45ff1110d3161781a0d56141b91f&token=1059416760&lang=zh_CN#rd"
   },
   {
+    "name": "DDNS_A",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "DDNS_B",
+    "sort": "docker",
+    "course": ""
+  },
+  {
     "name": "Qiandao",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247489990&idx=1&sn=81f80cdb5d2e5c5a62beed924fd6f811&chksm=ea42ce8bdd35479dd396727c5797c9ca0f841c0f61f71d7f92fd0be3f5047998980ad4d3f7ba&token=1059416760&lang=zh_CN#rd"
@@ -553,6 +563,21 @@
     "name": "Emby_C",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247498501&idx=1&sn=e1b01164af83096628f4039413f472ab&chksm=ea412c48dd36a55ee0c4010f676c16844f8b18fb20d5d256c5aae9eaa3c1bfb9f29dcfe3a46a&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "Plex_A",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "Plex_B",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "Plex_C",
+    "sort": "docker",
+    "course": ""
   },
   {
     "name": "Bangumi",
