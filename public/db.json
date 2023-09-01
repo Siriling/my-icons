@@ -585,7 +585,22 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247503855&idx=1&sn=06685379d25c4127e078a8713dfc830d&chksm=ea4118a2dd3691b4a127e3dc95c3ef4646aede5b828322b1a91947c34d28101ccfab0bbd102a&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "AutoBangumi",
+    "name": "AutoBangumi_A",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "AutoBangumi_B",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "AutoBangumi_C",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "AutoBangumi_D",
     "sort": "docker",
     "course": ""
   },
@@ -1091,6 +1106,11 @@
   },
   {
     "name": "ServerStatus",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "Dashdot",
     "sort": "docker",
     "course": ""
   },
