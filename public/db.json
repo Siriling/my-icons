@@ -475,6 +475,36 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247491171&idx=1&sn=2a73c6518d1aaf0737a0e8133b6f93dc&chksm=ea42c92edd354038f7025ec7964838eb94cb8571475aa6b01f60a542226adebd6bb234aeb79a&token=1059416760&lang=zh_CN#rd"
   },
   {
+    "name": "SunPanel_A",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "SunPanel_B",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "SunPanel_C",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "SunPanel_D",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "SunPanel_E",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "SunPanel_F",
+    "sort": "docker",
+    "course": ""
+  },
+  {
     "name": "Heimdall_A",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247491428&idx=1&sn=0723d4dfd605c90b84a83ecbd7d47663&chksm=ea42c829dd35413f7e57935717ea377f286a0bf8200d9f6d4ddc93e3bfbc18808ceaa9e3462a&token=1059416760&lang=zh_CN#rd"
