@@ -1205,6 +1205,71 @@
     "course": ""
   },
   {
+    "name": "ROG_Rapture_GT-AC5300",
+    "sort": "router",
+    "course": ""
+  },
+  {
+    "name": "ROG_Rapture_GT-AXE11000",
+    "sort": "router",
+    "course": ""
+  },
+  {
+    "name": "ROG_Rapture_GT-AX11000_Pro",
+    "sort": "router",
+    "course": ""
+  },
+  {
+    "name": "ROG_Rapture GT-AXE16000",
+    "sort": "router",
+    "course": ""
+  },
+  {
+    "name": "ROG_Rapture GT-AX6000_EVA_Edition",
+    "sort": "router",
+    "course": ""
+  },
+  {
+    "name": "ROG_Rapture_GT6",
+    "sort": "router",
+    "course": ""
+  },
+  {
+    "name": "ROG_Rapture_GT-BE98 Pro",
+    "sort": "router",
+    "course": ""
+  },
+  {
+    "name": "iKuai_A",
+    "sort": "router",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247487778&idx=1&sn=59e3af7844285ef714a51befc59ac8cf&chksm=ea42c66fdd354f790323b6555e45e115867b933efae384f4c9fa0b87586c0322cd0a62380a4f&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "iKuai_B",
+    "sort": "router",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247487778&idx=1&sn=59e3af7844285ef714a51befc59ac8cf&chksm=ea42c66fdd354f790323b6555e45e115867b933efae384f4c9fa0b87586c0322cd0a62380a4f&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "OpenWRT_A",
+    "sort": "router",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "OpenWRT_B",
+    "sort": "router",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "OpenWRT_C",
+    "sort": "router",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "OpenWRT_D",
+    "sort": "router",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
+  },
+  {
     "name": "Windows10",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247486291&idx=1&sn=fee162014bd9302e7c7bb3ab90431a74&chksm=ea42dc1edd35550852222c49f7116fe1594632a102ee8642c985633b52446c10d441173cc6a2&token=1059416760&lang=zh_CN#rd"
@@ -1225,16 +1290,6 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247487156&idx=1&sn=42461ab3331cf0254691dfba3d94f8a3&chksm=ea42d9f9dd3550ef2ce6a122338138d54b2e9fe58b4f7c54f5ab4d4d089fb7a3649293bc3810&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "iKuai_A",
-    "sort": "vms",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247487778&idx=1&sn=59e3af7844285ef714a51befc59ac8cf&chksm=ea42c66fdd354f790323b6555e45e115867b933efae384f4c9fa0b87586c0322cd0a62380a4f&token=1059416760&lang=zh_CN#rd"
-  },
-  {
-    "name": "iKuai_B",
-    "sort": "vms",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247487778&idx=1&sn=59e3af7844285ef714a51befc59ac8cf&chksm=ea42c66fdd354f790323b6555e45e115867b933efae384f4c9fa0b87586c0322cd0a62380a4f&token=1059416760&lang=zh_CN#rd"
-  },
-  {
     "name": "Shumeipan",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247491612&idx=1&sn=7f9b8bbb84923f5266147434e5342d72&chksm=ea413751dd36be47b9af3e4f25dd6b15d47307ac50b81a444f4a38c12c8d60c14e56d5820560&token=1059416760&lang=zh_CN#rd"
@@ -1253,26 +1308,6 @@
     "name": "Tinycore",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247497769&idx=1&sn=b7037b0a4b9a14890f17ba5484b87085&chksm=ea412f64dd36a6728f5724afb69adfd244212a64a60e30be32619fdca7eff47377e233ae321c&token=1059416760&lang=zh_CN#rd"
-  },
-  {
-    "name": "OpenWRT_A",
-    "sort": "vms",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
-  },
-  {
-    "name": "OpenWRT_B",
-    "sort": "vms",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
-  },
-  {
-    "name": "OpenWRT_C",
-    "sort": "vms",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
-  },
-  {
-    "name": "OpenWRT_D",
-    "sort": "vms",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247507082&idx=1&sn=39bfdbe3af107387054060cacb00deb9&chksm=ea410bc7dd3682d1b6229e2421b555cde3cf455e82dbe5b91c623df65e28dbce03a7fb3407eb&token=1059416760&lang=zh_CN#rd"
   },
   {
     "name": "Ubuntukylin",
@@ -1298,11 +1333,6 @@
     "name": "Winpe",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517693&idx=1&sn=6f8c510341ff25cc48c6226261ff2918&chksm=ea4152b0dd36dba67e77a5275fde4086cfbaa2dd807c001a86122feeb013c97606cf535bb4f0&token=1059416760&lang=zh_CN#rd"
-  },
-  {
-    "name": "GT-AC5300",
-    "sort": "vms",
-    "course": ""
   },
   {
     "name": "CasaOS_A",

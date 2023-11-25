@@ -10,8 +10,11 @@
         <el-image class="use_img" :src="require('../assets/docker.png')" />
         <div class="use_txt">Docker容器</div>
         <el-divider direction="vertical" />
+        <el-image class="use_img" :src="require('../assets/router.png')" />
+        <div class="use_txt">路由器</div>
+        <el-divider direction="vertical" />
         <el-image class="use_img" :src="require('../assets/vms.png')" />
-        <div class="use_txt">VMS虚拟机</div>
+        <div class="use_txt">虚拟机</div>
         <el-divider direction="vertical" />
         <el-image class="use_img" :src="require('../assets/project.png')" />
         <div class="use_txt">项目</div>
@@ -37,9 +40,10 @@
             clearable
           >
             <el-option label="容器" value="1" />
-            <el-option label="虚拟机" value="2" />
-            <el-option label="项目" value="3" />
-            <el-option label="其他" value="4" />
+            <el-option label="路由器" value="2" />
+            <el-option label="虚拟机" value="3" />
+            <el-option label="项目" value="4" />
+            <el-option label="其他" value="5" />
           </el-select>
         </template>
       </el-input>
@@ -155,12 +159,15 @@ export default defineComponent({
         data.selectlabel = "容器";
         filteredData = tempdata.filter((item) => item.sort == "docker");
       } else if (value == 2) {
+        data.selectlabel = "路由器";
+        filteredData = tempdata.filter((item) => item.sort == "router");
+      } else if (value == 3) {
         data.selectlabel = "虚拟机";
         filteredData = tempdata.filter((item) => item.sort == "vms");
-      } else if (value == 3) {
+      } else if (value == 4) {
         data.selectlabel = "项目";
         filteredData = tempdata.filter((item) => item.sort == "project");
-      } else if (value == 4) {
+      } else if (value == 5) {
         data.selectlabel = "其他";
         filteredData = tempdata.filter((item) => item.sort == "other");
       } else {
@@ -179,10 +186,12 @@ export default defineComponent({
       if (sort == 1) {
         filteredData = tempdata.filter((item) => item.sort == "docker");
       } else if (sort == 2) {
-        filteredData = tempdata.filter((item) => item.sort == "vms");
+        filteredData = tempdata.filter((item) => item.sort == "router");
       } else if (sort == 3) {
-        filteredData = tempdata.filter((item) => item.sort == "project");
+        filteredData = tempdata.filter((item) => item.sort == "vms");
       } else if (sort == 4) {
+        filteredData = tempdata.filter((item) => item.sort == "project");
+      } else if (sort == 5) {
         filteredData = tempdata.filter((item) => item.sort == "other");
       } else {
         filteredData = tempdata;

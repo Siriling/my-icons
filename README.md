@@ -36,7 +36,8 @@ https://siriling.github.io/my-icons/dist
 
 # 四、分类
 - Docker容器（docker）
-- VMS虚拟机（vms）
+- 路由器（router）
+- 虚拟机（vms）
 - 项目（project）
 - 其他（other）
 
