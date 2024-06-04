@@ -1000,6 +1000,11 @@
     "course": ""
   },
   {
+    "name": "Lucky",
+    "sort": "docker",
+    "course": ""
+  },
+  {
     "name": "Syncthing_A",
     "sort": "docker",
     "course": ""
