@@ -305,7 +305,12 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247489346&idx=1&sn=972a3a39dfc1d123887095241248fe5a&chksm=ea42c00fdd35491928e6edc106e3c23659b8e09137360fde260238558ca5532958afd7e5d69f&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Focalboard",
+    "name": "Focalboard_A",
+    "sort": "docker",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247489666&idx=1&sn=3a6afc8658c08d6ffa62070ca6aa9934&chksm=ea42cfcfdd3546d96166ba2f79ed015688929bb2480aaa95c711458d2c7fe7aea3b09157960b&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "Focalboard_B",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247489666&idx=1&sn=3a6afc8658c08d6ffa62070ca6aa9934&chksm=ea42cfcfdd3546d96166ba2f79ed015688929bb2480aaa95c711458d2c7fe7aea3b09157960b&token=1059416760&lang=zh_CN#rd"
   },
@@ -1181,16 +1186,6 @@
   },
   {
     "name": "HomeAssistant_C",
-    "sort": "docker",
-    "course": ""
-  },
-  {
-    "name": "Focalboard_A",
-    "sort": "docker",
-    "course": ""
-  },
-  {
-    "name": "Focalboard_B",
     "sort": "docker",
     "course": ""
   },
