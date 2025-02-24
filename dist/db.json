@@ -1185,6 +1185,16 @@
     "course": ""
   },
   {
+    "name": "Focalboard_A",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "Focalboard_B",
+    "sort": "docker",
+    "course": ""
+  },
+  {
     "name": "Roon_A",
     "sort": "docker",
     "course": ""
@@ -1206,6 +1216,16 @@
   },
   {
     "name": "ChatGPT_B",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "Open-webui_A",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "Open-webui_B",
     "sort": "docker",
     "course": ""
   },
