@@ -30,6 +30,11 @@
     "course": ""
   },
   {
+    "name": "Zashboard",
+    "sort": "other",
+    "course": ""
+  },
+  {
     "name": "V2ray_A",
     "sort": "other",
     "course": ""
@@ -343,6 +348,11 @@
     "name": "Zerotier",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247489909&idx=1&sn=c41b0e96d1683ed71099baa924231553&chksm=ea42ce38dd35472e402eb3f4821e5ca03181e0a34a6950576c0d6fcc03cab69157a06359010f&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "Easytier",
+    "sort": "docker",
+    "course": "https://easytier.cn"
   },
   {
     "name": "Navidrome_A",
