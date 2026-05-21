@@ -920,6 +920,11 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517507&idx=1&sn=1e07fd4d9aac98245e31cc9602e793b3&chksm=ea41520edd36db184dd1c5cdc49de15f8cf1e9f0baedaf1bff3c6a198f31c9e2bf0411132651&token=1059416760&lang=zh_CN#rd"
   },
   {
+    "name": "OpenList",
+    "sort": "docker",
+    "course": "https://doc.oplist.org"
+  },
+  {
     "name": "Alist_A",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517538&idx=1&sn=8a4fb5b28e1767d3c511b0253d0c96f3&chksm=ea41522fdd36db39b6c3656ae97453d0555e8d107abf8b0f57d6f580df70b1dfebbdc0225367&token=1059416760&lang=zh_CN#rd"
