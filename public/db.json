@@ -945,7 +945,27 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517566&idx=1&sn=8b7740bb6222d0d1eed272ce01ce7307&chksm=ea415233dd36db25527d18235b4fd067b0488c0b5d2bfe4b0d2c89ec9d784aed592a69eb309b&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "Immich",
+    "name": "Immich_A",
+    "sort": "docker",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517644&idx=1&sn=350eb3c84fee980bb259a0a8c0a7b26a&chksm=ea415281dd36db97f7e43ab639185763a9b708c59627314681d2b3f0e20adf880e9ea6126477&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "Immich_B",
+    "sort": "docker",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517644&idx=1&sn=350eb3c84fee980bb259a0a8c0a7b26a&chksm=ea415281dd36db97f7e43ab639185763a9b708c59627314681d2b3f0e20adf880e9ea6126477&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "Immich_C",
+    "sort": "docker",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517644&idx=1&sn=350eb3c84fee980bb259a0a8c0a7b26a&chksm=ea415281dd36db97f7e43ab639185763a9b708c59627314681d2b3f0e20adf880e9ea6126477&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "Immich_D",
+    "sort": "docker",
+    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517644&idx=1&sn=350eb3c84fee980bb259a0a8c0a7b26a&chksm=ea415281dd36db97f7e43ab639185763a9b708c59627314681d2b3f0e20adf880e9ea6126477&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "Immich_E",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517644&idx=1&sn=350eb3c84fee980bb259a0a8c0a7b26a&chksm=ea415281dd36db97f7e43ab639185763a9b708c59627314681d2b3f0e20adf880e9ea6126477&token=1059416760&lang=zh_CN#rd"
   },
